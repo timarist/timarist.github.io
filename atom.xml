@@ -4,11 +4,11 @@
   <title><![CDATA[timarist]]></title>
   <link href="http://timarist.github.io/atom.xml" rel="self"/>
   <link href="http://timarist.github.io/"/>
-  <updated>2013-12-21T02:58:13+09:00</updated>
+  <updated>2013-12-22T00:18:30+09:00</updated>
   <id>http://timarist.github.io/</id>
   <author>
     <name><![CDATA[timarist]]></name>
-    
+    <email><![CDATA[timarist@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
