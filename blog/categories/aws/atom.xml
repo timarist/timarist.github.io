@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[timarist]]></title>
-  <link href="http://timarist.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: aws | timarist]]></title>
+  <link href="http://timarist.github.io/blog/categories/aws/atom.xml" rel="self"/>
   <link href="http://timarist.github.io/"/>
   <updated>2014-05-02T00:12:42+09:00</updated>
   <id>http://timarist.github.io/</id>
@@ -27,19 +27,6 @@
 
 
 <p>すんなり手順通りサブドメインを設定できた。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Github Pagesデビュー]]></title>
-    <link href="http://timarist.github.io/blog/2013/12/21/first-github-dot-io/"/>
-    <updated>2013-12-21T02:19:21+09:00</updated>
-    <id>http://timarist.github.io/blog/2013/12/21/first-github-dot-io</id>
-    <content type="html"><![CDATA[<p>Octopressにハマりつつあるので、ついでにGithub Pagesにデプロイしてみた。</p>
-
-<p><a href="http://morizyun.github.io/blog/octopress-gitpage-minimum-install-guide/">ここの記事</a>が特に参考になった。</p>
-
-<p>ちょこちょこアップしていこうと思う。</p>
 ]]></content>
   </entry>
   
