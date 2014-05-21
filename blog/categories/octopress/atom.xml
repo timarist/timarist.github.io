@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[timarist]]></title>
-  <link href="http://timarist.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: octopress | timarist]]></title>
+  <link href="http://timarist.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://timarist.github.io/"/>
   <updated>2014-05-22T00:28:52+09:00</updated>
   <id>http://timarist.github.io/</id>
@@ -12,23 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Github Pagesのドメイン変更]]></title>
-    <link href="http://timarist.github.io/blog/2014/05/02/github-pages/"/>
-    <updated>2014-05-02T00:06:45+09:00</updated>
-    <id>http://timarist.github.io/blog/2014/05/02/github-pages</id>
-    <content type="html"><![CDATA[<p>ムームードメインで安いドメインを取得したので、AWS Route53でインスタンスにドメインを割り当てる。</p>
-
-<p>Github Pagesに公開しているサイトのドメインを取得したサブドメインに割り当てる方法が<a href="http://blog.awairo.net/blog/2013/12/14/custom-domain-for-gh-pages/">ここ</a>に記載されていたので、
-試してみた。</p>
-
-<!-- more -->
-
-
-<p>すんなり手順通りサブドメインを設定できた。</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Github Pagesデビュー]]></title>
