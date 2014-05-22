@@ -1,0 +1,13 @@
+---
+layout: post
+title: "git v2.0.0 rc4"
+date: 2014-05-23 00:27:20 +0900
+comments: true
+categories: git
+---
+
+* [Git v2.0.0 rc4](https://github.com/git/git/commit/8ced8e40ac07c1b13b2edbb459d37b9b2d7275d6)
+
+Gitのv2.0.0 rc4がリリースされていたのでビルドした。
+
+v2.0.1がリリースされるのはもうすぐかな？
