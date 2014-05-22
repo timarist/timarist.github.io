@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: git | timarist]]></title>
+  <link href="http://timarist.github.io/blog/categories/git/atom.xml" rel="self"/>
+  <link href="http://timarist.github.io/"/>
+  <updated>2014-05-23T00:32:15+09:00</updated>
+  <id>http://timarist.github.io/</id>
+  <author>
+    <name><![CDATA[timarist]]></name>
+    <email><![CDATA[timarist@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[git v2.0.0 rc4]]></title>
+    <link href="http://timarist.github.io/blog/2014/05/23/git-v2-dot-0-0-rc4/"/>
+    <updated>2014-05-23T00:27:20+09:00</updated>
+    <id>http://timarist.github.io/blog/2014/05/23/git-v2-dot-0-0-rc4</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="https://github.com/git/git/commit/8ced8e40ac07c1b13b2edbb459d37b9b2d7275d6">Git v2.0.0 rc4</a></li>
+</ul>
+
+
+<p>Gitのv2.0.0 rc4がリリースされていたので、ビルドした。
+v2.0.1がリリースされるのはもうすぐかな？</p>
+]]></content>
+  </entry>
+  
+</feed>
