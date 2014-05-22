@@ -4,7 +4,7 @@
   <title><![CDATA[Category: git | timarist]]></title>
   <link href="http://timarist.github.io/blog/categories/git/atom.xml" rel="self"/>
   <link href="http://timarist.github.io/"/>
-  <updated>2014-05-23T00:32:15+09:00</updated>
+  <updated>2014-05-23T00:34:41+09:00</updated>
   <id>http://timarist.github.io/</id>
   <author>
     <name><![CDATA[timarist]]></name>
@@ -23,8 +23,9 @@
 </ul>
 
 
-<p>Gitのv2.0.0 rc4がリリースされていたので、ビルドした。
-v2.0.1がリリースされるのはもうすぐかな？</p>
+<p>Gitのv2.0.0 rc4がリリースされていたのでビルドした。</p>
+
+<p>v2.0.1がリリースされるのはもうすぐかな？</p>
 ]]></content>
   </entry>
   
