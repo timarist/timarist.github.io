@@ -4,7 +4,7 @@
   <title><![CDATA[timarist]]></title>
   <link href="http://timarist.github.io/atom.xml" rel="self"/>
   <link href="http://timarist.github.io/"/>
-  <updated>2014-05-23T00:34:41+09:00</updated>
+  <updated>2014-05-31T10:08:57+09:00</updated>
   <id>http://timarist.github.io/</id>
   <author>
     <name><![CDATA[timarist]]></name>
@@ -25,7 +25,13 @@
 
 <p>Gitのv2.0.0 rc4がリリースされていたのでビルドした。</p>
 
-<p>v2.0.1がリリースされるのはもうすぐかな？</p>
+<p>v2.0.0がリリースされるのはもうすぐかな？</p>
+
+<p>(追記）</p>
+
+<p>2014-05-28にリリースされた。<code>git push</code>のデフォルトの動作がsimpleに変わっているので注意。</p>
+
+<p>基本、ブランチを指定するので影響ないかも。</p>
 ]]></content>
   </entry>
   
